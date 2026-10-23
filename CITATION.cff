@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "Fastener Standards Data"
+abstract: "Open dimensional data for 16 common metric and imperial fastener standards: 872 records of nominal dimensions for hex bolts, nuts, flat washers, spring washers and socket head cap screws, published as CSV and JSON under CC BY 4.0."
+authors:
+  - name: "Hebei Longze Metal Products Manufacturing Co., Ltd."
+    alias: "Longze Engineering"
+    website: "https://lz-engineering.com"
+    affiliation: "Longze Engineering"
+    address: "Handan, Hebei, China"
+version: 1.0.0
+date-released: "2026-10-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/w1372068887-pixel/longze-fastener-data"
+url: "https://lz-engineering.com/open-data/"
+keywords:
+  - fasteners
+  - bolts
+  - nuts
+  - washers
+  - screws
+  - DIN
+  - ISO
+  - ASME
+  - engineering data
+  - open data

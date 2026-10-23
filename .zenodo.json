@@ -1,0 +1,37 @@
+{
+  "title": "Fastener Standards Data: open dimensional data for metric and imperial fastener standards",
+  "description": "<p>Open dimensional data for 16 common metric and imperial fastener standards (872 records): DIN 931, DIN 933, DIN 934, DIN 125-A, DIN 127-A, DIN 7980, ISO 4014, ISO 4017, ISO 4032, ISO 7089, ISO 4762, DIN 912, ASME B18.2.1, ASME B18.2.2, ASME B18.3 and ASME B18.21.1.</p><p>Each record gives the standard, size, system, grade/finish and nominal dimensions (width across flats, head height, washer bore/outside diameter/thickness) plus mechanical properties where the standard defines them. Distributed as a flat CSV table and the same data as a JSON array. Null values mean the field does not apply to that component, not zero.</p><p>Published by Longze Engineering (Hebei Longze Metal Products Manufacturing Co., Ltd.) as the machine-readable version of its public fastener size charts. Nominal values only: each standard defines its own tolerances. Not a normative document - use the standard text for design and acceptance testing.</p>",
+  "upload_type": "dataset",
+  "publication_date": "2026-10-23",
+  "creators": [
+    {
+      "name": "Hebei Longze Metal Products Manufacturing Co., Ltd.",
+      "affiliation": "Longze Engineering"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "fasteners",
+    "bolts",
+    "nuts",
+    "washers",
+    "DIN",
+    "ISO",
+    "ASME",
+    "engineering data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/w1372068887-pixel/longze-fastener-data",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://lz-engineering.com/open-data/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication"
+    }
+  ]
+}

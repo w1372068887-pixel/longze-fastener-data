@@ -1,0 +1,48 @@
+{
+  "dataset": "fastener-standards",
+  "version": "1.0.0",
+  "generated_at": "2026-10-23T15:04:12Z",
+  "records": 872,
+  "standards": 16,
+  "components": [
+    "bolt",
+    "nut",
+    "screw",
+    "spring washer",
+    "washer"
+  ],
+  "license": "CC BY 4.0",
+  "repository": "https://github.com/w1372068887-pixel/longze-fastener-data",
+  "landing_page": "https://lz-engineering.com/open-data/",
+  "files": {
+    "fastener-standards.csv": {
+      "sha256": "8a47ce048f0e8756e57d60ae7c93baae4a6377203c48cc874a820520bf017bf0",
+      "bytes": 96820
+    },
+    "fastener-standards.json": {
+      "sha256": "86418081ec1e44b4ca4b951a6562944919c9d02e6983c35c5839f68296f8f182",
+      "bytes": 382583
+    },
+    "README.md": {
+      "sha256": "aaba10a0849312fe6beccafc258c165d722a5b487106e1415753f934201748ca",
+      "bytes": 7464
+    },
+    "LICENSE": {
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+      "bytes": 18657
+    }
+  },
+  "build_notes": {
+    "deduped_one_finish_per_grade": 602,
+    "skipped": {
+      "no-nominal": 16
+    },
+    "source_fallback_used": 2,
+    "mechanical_properties_withheld_by_component": {
+      "nut": 110,
+      "washer": 60,
+      "spring washer": 104
+    }
+  },
+  "builder": "scripts/build_open_data.py"
+}

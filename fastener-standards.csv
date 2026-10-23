@@ -1,0 +1,873 @@
+standard,size,system,grade,finish,component,width_across_flats_mm,head_height_mm,inner_dia_mm,outer_dia_mm,thickness_mm,tensile_mpa,yield_mpa,weight_per_1000_kg,source
+DIN 931,M6,Metric,10.9,Plain,bolt,10.0,4.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M6,Metric,12.9,Plain,bolt,10.0,4.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M6,Metric,5.6,Plain,bolt,10.0,4.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M6,Metric,5.8,Plain,bolt,10.0,4.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M6,Metric,8.8,Plain,bolt,10.0,4.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M6,Metric,A2-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M6,Metric,A4-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,10.9,Plain,bolt,13.0,5.3,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,12.9,Plain,bolt,13.0,5.3,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,5.6,Plain,bolt,13.0,5.3,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,5.8,Plain,bolt,13.0,5.3,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,8.8,Plain,bolt,13.0,5.3,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,A2-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M8,Metric,A4-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,10.9,Plain,bolt,16.0,6.4,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,12.9,Plain,bolt,16.0,6.4,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,5.6,Plain,bolt,16.0,6.4,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,5.8,Plain,bolt,16.0,6.4,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,8.8,Plain,bolt,16.0,6.4,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,A2-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M10,Metric,A4-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,10.9,Plain,bolt,18.0,7.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,12.9,Plain,bolt,18.0,7.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,5.6,Plain,bolt,18.0,7.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,5.8,Plain,bolt,18.0,7.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,8.8,Plain,bolt,18.0,7.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,A2-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M12,Metric,A4-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,10.9,Plain,bolt,21.0,8.8,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,12.9,Plain,bolt,21.0,8.8,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,5.6,Plain,bolt,21.0,8.8,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,5.8,Plain,bolt,21.0,8.8,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,8.8,Plain,bolt,21.0,8.8,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,A2-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M14,Metric,A4-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,10.9,Plain,bolt,24.0,10.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,12.9,Plain,bolt,24.0,10.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,5.6,Plain,bolt,24.0,10.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,5.8,Plain,bolt,24.0,10.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,8.8,Plain,bolt,24.0,10.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,A2-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M16,Metric,A4-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,10.9,Plain,bolt,27.0,11.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,12.9,Plain,bolt,27.0,11.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,5.6,Plain,bolt,27.0,11.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,5.8,Plain,bolt,27.0,11.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,8.8,Plain,bolt,27.0,11.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,A2-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M18,Metric,A4-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,10.9,Plain,bolt,30.0,12.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,12.9,Plain,bolt,30.0,12.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,5.6,Plain,bolt,30.0,12.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,5.8,Plain,bolt,30.0,12.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,8.8,Plain,bolt,30.0,12.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,A2-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M20,Metric,A4-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,10.9,Plain,bolt,32.0,14.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,12.9,Plain,bolt,32.0,14.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,5.6,Plain,bolt,32.0,14.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,5.8,Plain,bolt,32.0,14.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,8.8,Plain,bolt,32.0,14.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,A2-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M22,Metric,A4-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,10.9,Plain,bolt,36.0,15.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,12.9,Plain,bolt,36.0,15.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,5.6,Plain,bolt,36.0,15.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,5.8,Plain,bolt,36.0,15.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,8.8,Plain,bolt,36.0,15.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,A2-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M24,Metric,A4-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,10.9,Plain,bolt,41.0,17.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,12.9,Plain,bolt,41.0,17.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,5.6,Plain,bolt,41.0,17.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,5.8,Plain,bolt,41.0,17.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,8.8,Plain,bolt,41.0,17.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,A2-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M27,Metric,A4-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,10.9,Plain,bolt,46.0,18.7,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,12.9,Plain,bolt,46.0,18.7,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,5.6,Plain,bolt,46.0,18.7,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,5.8,Plain,bolt,46.0,18.7,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,8.8,Plain,bolt,46.0,18.7,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,A2-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M30,Metric,A4-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,10.9,Plain,bolt,55.0,22.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,12.9,Plain,bolt,55.0,22.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,5.6,Plain,bolt,55.0,22.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,5.8,Plain,bolt,55.0,22.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,8.8,Plain,bolt,55.0,22.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,A2-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M36,Metric,A4-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,10.9,Plain,bolt,65.0,26.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,12.9,Plain,bolt,65.0,26.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,5.6,Plain,bolt,65.0,26.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,5.8,Plain,bolt,65.0,26.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,8.8,Plain,bolt,65.0,26.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,A2-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M42,Metric,A4-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,10.9,Plain,bolt,75.0,30.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,12.9,Plain,bolt,75.0,30.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,5.6,Plain,bolt,75.0,30.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,5.8,Plain,bolt,75.0,30.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,8.8,Plain,bolt,75.0,30.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,A2-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M48,Metric,A4-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,10.9,Plain,bolt,85.0,35.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,12.9,Plain,bolt,85.0,35.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,5.6,Plain,bolt,85.0,35.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,5.8,Plain,bolt,85.0,35.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,8.8,Plain,bolt,85.0,35.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,A2-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M56,Metric,A4-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,10.9,Plain,bolt,95.0,40.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,12.9,Plain,bolt,95.0,40.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,5.6,Plain,bolt,95.0,40.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,5.8,Plain,bolt,95.0,40.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,8.8,Plain,bolt,95.0,40.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,A2-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 931,M64,Metric,A4-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/931/
+DIN 933,M6,Metric,10.9,Plain,bolt,10.0,4.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M6,Metric,12.9,Plain,bolt,10.0,4.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M6,Metric,5.6,Plain,bolt,10.0,4.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M6,Metric,5.8,Plain,bolt,10.0,4.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M6,Metric,8.8,Plain,bolt,10.0,4.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M6,Metric,A2-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M6,Metric,A4-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,10.9,Plain,bolt,13.0,5.3,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,12.9,Plain,bolt,13.0,5.3,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,5.6,Plain,bolt,13.0,5.3,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,5.8,Plain,bolt,13.0,5.3,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,8.8,Plain,bolt,13.0,5.3,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,A2-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M8,Metric,A4-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,10.9,Plain,bolt,16.0,6.4,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,12.9,Plain,bolt,16.0,6.4,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,5.6,Plain,bolt,16.0,6.4,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,5.8,Plain,bolt,16.0,6.4,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,8.8,Plain,bolt,16.0,6.4,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,A2-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M10,Metric,A4-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,10.9,Plain,bolt,18.0,7.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,12.9,Plain,bolt,18.0,7.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,5.6,Plain,bolt,18.0,7.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,5.8,Plain,bolt,18.0,7.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,8.8,Plain,bolt,18.0,7.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,A2-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M12,Metric,A4-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,10.9,Plain,bolt,21.0,8.8,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,12.9,Plain,bolt,21.0,8.8,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,5.6,Plain,bolt,21.0,8.8,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,5.8,Plain,bolt,21.0,8.8,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,8.8,Plain,bolt,21.0,8.8,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,A2-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M14,Metric,A4-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,10.9,Plain,bolt,24.0,10.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,12.9,Plain,bolt,24.0,10.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,5.6,Plain,bolt,24.0,10.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,5.8,Plain,bolt,24.0,10.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,8.8,Plain,bolt,24.0,10.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,A2-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M16,Metric,A4-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,10.9,Plain,bolt,27.0,11.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,12.9,Plain,bolt,27.0,11.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,5.6,Plain,bolt,27.0,11.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,5.8,Plain,bolt,27.0,11.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,8.8,Plain,bolt,27.0,11.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,A2-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M18,Metric,A4-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,10.9,Plain,bolt,30.0,12.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,12.9,Plain,bolt,30.0,12.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,5.6,Plain,bolt,30.0,12.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,5.8,Plain,bolt,30.0,12.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,8.8,Plain,bolt,30.0,12.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,A2-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M20,Metric,A4-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,10.9,Plain,bolt,32.0,14.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,12.9,Plain,bolt,32.0,14.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,5.6,Plain,bolt,32.0,14.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,5.8,Plain,bolt,32.0,14.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,8.8,Plain,bolt,32.0,14.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,A2-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M22,Metric,A4-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,10.9,Plain,bolt,36.0,15.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,12.9,Plain,bolt,36.0,15.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,5.6,Plain,bolt,36.0,15.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,5.8,Plain,bolt,36.0,15.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,8.8,Plain,bolt,36.0,15.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,A2-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M24,Metric,A4-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,10.9,Plain,bolt,41.0,17.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,12.9,Plain,bolt,41.0,17.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,5.6,Plain,bolt,41.0,17.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,5.8,Plain,bolt,41.0,17.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,8.8,Plain,bolt,41.0,17.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,A2-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M27,Metric,A4-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,10.9,Plain,bolt,46.0,18.7,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,12.9,Plain,bolt,46.0,18.7,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,5.6,Plain,bolt,46.0,18.7,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,5.8,Plain,bolt,46.0,18.7,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,8.8,Plain,bolt,46.0,18.7,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,A2-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M30,Metric,A4-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,10.9,Plain,bolt,50.0,21.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,12.9,Plain,bolt,50.0,21.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,5.6,Plain,bolt,50.0,21.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,5.8,Plain,bolt,50.0,21.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,8.8,Plain,bolt,50.0,21.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,A2-70,Stainless Steel,bolt,50.0,21.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M33,Metric,A4-70,Stainless Steel,bolt,50.0,21.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,10.9,Plain,bolt,55.0,22.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,12.9,Plain,bolt,55.0,22.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,5.6,Plain,bolt,55.0,22.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,5.8,Plain,bolt,55.0,22.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,8.8,Plain,bolt,55.0,22.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,A2-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M36,Metric,A4-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,10.9,Plain,bolt,60.0,24.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,12.9,Plain,bolt,60.0,24.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,5.6,Plain,bolt,60.0,24.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,5.8,Plain,bolt,60.0,24.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,8.8,Plain,bolt,60.0,24.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,A2-70,Stainless Steel,bolt,60.0,24.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M39,Metric,A4-70,Stainless Steel,bolt,60.0,24.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,10.9,Plain,bolt,65.0,26.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,12.9,Plain,bolt,65.0,26.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,5.6,Plain,bolt,65.0,26.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,5.8,Plain,bolt,65.0,26.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,8.8,Plain,bolt,65.0,26.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,A2-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M42,Metric,A4-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,10.9,Plain,bolt,70.0,28.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,12.9,Plain,bolt,70.0,28.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,5.6,Plain,bolt,70.0,28.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,5.8,Plain,bolt,70.0,28.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,8.8,Plain,bolt,70.0,28.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,A2-70,Stainless Steel,bolt,70.0,28.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M45,Metric,A4-70,Stainless Steel,bolt,70.0,28.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,10.9,Plain,bolt,75.0,30.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,12.9,Plain,bolt,75.0,30.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,5.6,Plain,bolt,75.0,30.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,5.8,Plain,bolt,75.0,30.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,8.8,Plain,bolt,75.0,30.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,A2-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M48,Metric,A4-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,10.9,Plain,bolt,80.0,33.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,12.9,Plain,bolt,80.0,33.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,5.6,Plain,bolt,80.0,33.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,5.8,Plain,bolt,80.0,33.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,8.8,Plain,bolt,80.0,33.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,A2-70,Stainless Steel,bolt,80.0,33.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M52,Metric,A4-70,Stainless Steel,bolt,80.0,33.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,10.9,Plain,bolt,85.0,35.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,12.9,Plain,bolt,85.0,35.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,5.6,Plain,bolt,85.0,35.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,5.8,Plain,bolt,85.0,35.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,8.8,Plain,bolt,85.0,35.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,A2-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M56,Metric,A4-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,10.9,Plain,bolt,90.0,38.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,12.9,Plain,bolt,90.0,38.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,5.6,Plain,bolt,90.0,38.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,5.8,Plain,bolt,90.0,38.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,8.8,Plain,bolt,90.0,38.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,A2-70,Stainless Steel,bolt,90.0,38.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M60,Metric,A4-70,Stainless Steel,bolt,90.0,38.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,10.9,Plain,bolt,95.0,40.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,12.9,Plain,bolt,95.0,40.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,5.6,Plain,bolt,95.0,40.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,5.8,Plain,bolt,95.0,40.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,8.8,Plain,bolt,95.0,40.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,A2-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+DIN 933,M64,Metric,A4-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din/933/
+ISO 4014,M6,Metric,10.9,Plain,bolt,10.0,4.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M6,Metric,12.9,Plain,bolt,10.0,4.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M6,Metric,5.6,Plain,bolt,10.0,4.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M6,Metric,5.8,Plain,bolt,10.0,4.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M6,Metric,8.8,Plain,bolt,10.0,4.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M6,Metric,A2-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M6,Metric,A4-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,10.9,Plain,bolt,13.0,5.3,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,12.9,Plain,bolt,13.0,5.3,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,5.6,Plain,bolt,13.0,5.3,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,5.8,Plain,bolt,13.0,5.3,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,8.8,Plain,bolt,13.0,5.3,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,A2-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M8,Metric,A4-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,10.9,Plain,bolt,16.0,6.4,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,12.9,Plain,bolt,16.0,6.4,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,5.6,Plain,bolt,16.0,6.4,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,5.8,Plain,bolt,16.0,6.4,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,8.8,Plain,bolt,16.0,6.4,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,A2-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M10,Metric,A4-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,10.9,Plain,bolt,18.0,7.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,12.9,Plain,bolt,18.0,7.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,5.6,Plain,bolt,18.0,7.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,5.8,Plain,bolt,18.0,7.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,8.8,Plain,bolt,18.0,7.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,A2-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M12,Metric,A4-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,10.9,Plain,bolt,21.0,8.8,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,12.9,Plain,bolt,21.0,8.8,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,5.6,Plain,bolt,21.0,8.8,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,5.8,Plain,bolt,21.0,8.8,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,8.8,Plain,bolt,21.0,8.8,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,A2-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M14,Metric,A4-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,10.9,Plain,bolt,24.0,10.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,12.9,Plain,bolt,24.0,10.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,5.6,Plain,bolt,24.0,10.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,5.8,Plain,bolt,24.0,10.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,8.8,Plain,bolt,24.0,10.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,A2-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M16,Metric,A4-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,10.9,Plain,bolt,27.0,11.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,12.9,Plain,bolt,27.0,11.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,5.6,Plain,bolt,27.0,11.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,5.8,Plain,bolt,27.0,11.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,8.8,Plain,bolt,27.0,11.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,A2-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M18,Metric,A4-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,10.9,Plain,bolt,30.0,12.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,12.9,Plain,bolt,30.0,12.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,5.6,Plain,bolt,30.0,12.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,5.8,Plain,bolt,30.0,12.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,8.8,Plain,bolt,30.0,12.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,A2-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M20,Metric,A4-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,10.9,Plain,bolt,32.0,14.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,12.9,Plain,bolt,32.0,14.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,5.6,Plain,bolt,32.0,14.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,5.8,Plain,bolt,32.0,14.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,8.8,Plain,bolt,32.0,14.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,A2-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M22,Metric,A4-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,10.9,Plain,bolt,36.0,15.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,12.9,Plain,bolt,36.0,15.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,5.6,Plain,bolt,36.0,15.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,5.8,Plain,bolt,36.0,15.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,8.8,Plain,bolt,36.0,15.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,A2-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M24,Metric,A4-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,10.9,Plain,bolt,41.0,17.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,12.9,Plain,bolt,41.0,17.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,5.6,Plain,bolt,41.0,17.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,5.8,Plain,bolt,41.0,17.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,8.8,Plain,bolt,41.0,17.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,A2-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M27,Metric,A4-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,10.9,Plain,bolt,46.0,18.7,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,12.9,Plain,bolt,46.0,18.7,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,5.6,Plain,bolt,46.0,18.7,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,5.8,Plain,bolt,46.0,18.7,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,8.8,Plain,bolt,46.0,18.7,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,A2-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M30,Metric,A4-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,10.9,Plain,bolt,55.0,22.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,12.9,Plain,bolt,55.0,22.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,5.6,Plain,bolt,55.0,22.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,5.8,Plain,bolt,55.0,22.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,8.8,Plain,bolt,55.0,22.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,A2-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M36,Metric,A4-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,10.9,Plain,bolt,65.0,26.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,12.9,Plain,bolt,65.0,26.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,5.6,Plain,bolt,65.0,26.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,5.8,Plain,bolt,65.0,26.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,8.8,Plain,bolt,65.0,26.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,A2-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M42,Metric,A4-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,10.9,Plain,bolt,75.0,30.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,12.9,Plain,bolt,75.0,30.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,5.6,Plain,bolt,75.0,30.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,5.8,Plain,bolt,75.0,30.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,8.8,Plain,bolt,75.0,30.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,A2-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M48,Metric,A4-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,10.9,Plain,bolt,85.0,35.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,12.9,Plain,bolt,85.0,35.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,5.6,Plain,bolt,85.0,35.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,5.8,Plain,bolt,85.0,35.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,8.8,Plain,bolt,85.0,35.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,A2-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M56,Metric,A4-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,10.9,Plain,bolt,95.0,40.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,12.9,Plain,bolt,95.0,40.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,5.6,Plain,bolt,95.0,40.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,5.8,Plain,bolt,95.0,40.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,8.8,Plain,bolt,95.0,40.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,A2-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4014,M64,Metric,A4-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4014/
+ISO 4017,M6,Metric,10.9,Plain,bolt,10.0,4.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M6,Metric,12.9,Plain,bolt,10.0,4.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M6,Metric,5.6,Plain,bolt,10.0,4.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M6,Metric,5.8,Plain,bolt,10.0,4.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M6,Metric,8.8,Plain,bolt,10.0,4.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M6,Metric,A2-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M6,Metric,A4-70,Stainless Steel,bolt,10.0,4.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,10.9,Plain,bolt,13.0,5.3,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,12.9,Plain,bolt,13.0,5.3,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,5.6,Plain,bolt,13.0,5.3,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,5.8,Plain,bolt,13.0,5.3,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,8.8,Plain,bolt,13.0,5.3,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,A2-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M8,Metric,A4-70,Stainless Steel,bolt,13.0,5.3,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,10.9,Plain,bolt,16.0,6.4,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,12.9,Plain,bolt,16.0,6.4,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,5.6,Plain,bolt,16.0,6.4,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,5.8,Plain,bolt,16.0,6.4,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,8.8,Plain,bolt,16.0,6.4,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,A2-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M10,Metric,A4-70,Stainless Steel,bolt,16.0,6.4,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,10.9,Plain,bolt,18.0,7.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,12.9,Plain,bolt,18.0,7.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,5.6,Plain,bolt,18.0,7.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,5.8,Plain,bolt,18.0,7.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,8.8,Plain,bolt,18.0,7.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,A2-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M12,Metric,A4-70,Stainless Steel,bolt,18.0,7.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,10.9,Plain,bolt,21.0,8.8,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,12.9,Plain,bolt,21.0,8.8,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,5.6,Plain,bolt,21.0,8.8,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,5.8,Plain,bolt,21.0,8.8,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,8.8,Plain,bolt,21.0,8.8,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,A2-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M14,Metric,A4-70,Stainless Steel,bolt,21.0,8.8,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,10.9,Plain,bolt,24.0,10.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,12.9,Plain,bolt,24.0,10.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,5.6,Plain,bolt,24.0,10.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,5.8,Plain,bolt,24.0,10.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,8.8,Plain,bolt,24.0,10.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,A2-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M16,Metric,A4-70,Stainless Steel,bolt,24.0,10.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,10.9,Plain,bolt,27.0,11.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,12.9,Plain,bolt,27.0,11.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,5.6,Plain,bolt,27.0,11.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,5.8,Plain,bolt,27.0,11.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,8.8,Plain,bolt,27.0,11.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,A2-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M18,Metric,A4-70,Stainless Steel,bolt,27.0,11.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,10.9,Plain,bolt,30.0,12.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,12.9,Plain,bolt,30.0,12.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,5.6,Plain,bolt,30.0,12.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,5.8,Plain,bolt,30.0,12.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,8.8,Plain,bolt,30.0,12.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,A2-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M20,Metric,A4-70,Stainless Steel,bolt,30.0,12.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,10.9,Plain,bolt,32.0,14.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,12.9,Plain,bolt,32.0,14.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,5.6,Plain,bolt,32.0,14.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,5.8,Plain,bolt,32.0,14.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,8.8,Plain,bolt,32.0,14.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,A2-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M22,Metric,A4-70,Stainless Steel,bolt,32.0,14.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,10.9,Plain,bolt,36.0,15.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,12.9,Plain,bolt,36.0,15.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,5.6,Plain,bolt,36.0,15.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,5.8,Plain,bolt,36.0,15.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,8.8,Plain,bolt,36.0,15.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,A2-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M24,Metric,A4-70,Stainless Steel,bolt,36.0,15.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,10.9,Plain,bolt,41.0,17.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,12.9,Plain,bolt,41.0,17.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,5.6,Plain,bolt,41.0,17.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,5.8,Plain,bolt,41.0,17.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,8.8,Plain,bolt,41.0,17.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,A2-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M27,Metric,A4-70,Stainless Steel,bolt,41.0,17.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,10.9,Plain,bolt,46.0,18.7,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,12.9,Plain,bolt,46.0,18.7,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,5.6,Plain,bolt,46.0,18.7,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,5.8,Plain,bolt,46.0,18.7,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,8.8,Plain,bolt,46.0,18.7,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,A2-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M30,Metric,A4-70,Stainless Steel,bolt,46.0,18.7,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,10.9,Plain,bolt,50.0,21.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,12.9,Plain,bolt,50.0,21.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,5.6,Plain,bolt,50.0,21.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,5.8,Plain,bolt,50.0,21.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,8.8,Plain,bolt,50.0,21.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,A2-70,Stainless Steel,bolt,50.0,21.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M33,Metric,A4-70,Stainless Steel,bolt,50.0,21.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,10.9,Plain,bolt,55.0,22.5,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,12.9,Plain,bolt,55.0,22.5,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,5.6,Plain,bolt,55.0,22.5,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,5.8,Plain,bolt,55.0,22.5,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,8.8,Plain,bolt,55.0,22.5,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,A2-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M36,Metric,A4-70,Stainless Steel,bolt,55.0,22.5,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,10.9,Plain,bolt,60.0,24.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,12.9,Plain,bolt,60.0,24.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,5.6,Plain,bolt,60.0,24.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,5.8,Plain,bolt,60.0,24.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,8.8,Plain,bolt,60.0,24.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,A2-70,Stainless Steel,bolt,60.0,24.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M39,Metric,A4-70,Stainless Steel,bolt,60.0,24.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,10.9,Plain,bolt,65.0,26.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,12.9,Plain,bolt,65.0,26.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,5.6,Plain,bolt,65.0,26.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,5.8,Plain,bolt,65.0,26.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,8.8,Plain,bolt,65.0,26.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,A2-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M42,Metric,A4-70,Stainless Steel,bolt,65.0,26.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,10.9,Plain,bolt,70.0,28.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,12.9,Plain,bolt,70.0,28.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,5.6,Plain,bolt,70.0,28.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,5.8,Plain,bolt,70.0,28.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,8.8,Plain,bolt,70.0,28.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,A2-70,Stainless Steel,bolt,70.0,28.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M45,Metric,A4-70,Stainless Steel,bolt,70.0,28.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,10.9,Plain,bolt,75.0,30.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,12.9,Plain,bolt,75.0,30.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,5.6,Plain,bolt,75.0,30.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,5.8,Plain,bolt,75.0,30.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,8.8,Plain,bolt,75.0,30.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,A2-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M48,Metric,A4-70,Stainless Steel,bolt,75.0,30.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,10.9,Plain,bolt,80.0,33.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,12.9,Plain,bolt,80.0,33.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,5.6,Plain,bolt,80.0,33.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,5.8,Plain,bolt,80.0,33.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,8.8,Plain,bolt,80.0,33.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,A2-70,Stainless Steel,bolt,80.0,33.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M52,Metric,A4-70,Stainless Steel,bolt,80.0,33.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,10.9,Plain,bolt,85.0,35.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,12.9,Plain,bolt,85.0,35.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,5.6,Plain,bolt,85.0,35.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,5.8,Plain,bolt,85.0,35.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,8.8,Plain,bolt,85.0,35.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,A2-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M56,Metric,A4-70,Stainless Steel,bolt,85.0,35.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,10.9,Plain,bolt,90.0,38.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,12.9,Plain,bolt,90.0,38.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,5.6,Plain,bolt,90.0,38.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,5.8,Plain,bolt,90.0,38.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,8.8,Plain,bolt,90.0,38.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,A2-70,Stainless Steel,bolt,90.0,38.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M60,Metric,A4-70,Stainless Steel,bolt,90.0,38.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,10.9,Plain,bolt,95.0,40.0,,,,1040.0,900.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,12.9,Plain,bolt,95.0,40.0,,,,1220.0,1100.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,5.6,Plain,bolt,95.0,40.0,,,,500.0,300.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,5.8,Plain,bolt,95.0,40.0,,,,500.0,400.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,8.8,Plain,bolt,95.0,40.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,A2-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+ISO 4017,M64,Metric,A4-70,Stainless Steel,bolt,95.0,40.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso/4017/
+DIN 934,M6,Metric,A2-70,Stainless Steel,nut,10.0,5.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M6,Metric,A4-70,Stainless Steel,nut,10.0,5.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M8,Metric,A2-70,Stainless Steel,nut,13.0,6.5,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M8,Metric,A4-70,Stainless Steel,nut,13.0,6.5,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M10,Metric,A2-70,Stainless Steel,nut,16.0,8.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M10,Metric,A4-70,Stainless Steel,nut,16.0,8.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M12,Metric,A2-70,Stainless Steel,nut,18.0,10.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M12,Metric,A4-70,Stainless Steel,nut,18.0,10.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M14,Metric,A2-70,Stainless Steel,nut,21.0,11.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M14,Metric,A4-70,Stainless Steel,nut,21.0,11.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M16,Metric,A2-70,Stainless Steel,nut,24.0,13.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M16,Metric,A4-70,Stainless Steel,nut,24.0,13.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M18,Metric,A2-70,Stainless Steel,nut,27.0,15.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M18,Metric,A4-70,Stainless Steel,nut,27.0,15.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M20,Metric,A2-70,Stainless Steel,nut,30.0,16.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M20,Metric,A4-70,Stainless Steel,nut,30.0,16.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M22,Metric,A2-70,Stainless Steel,nut,32.0,18.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M22,Metric,A4-70,Stainless Steel,nut,32.0,18.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M24,Metric,A2-70,Stainless Steel,nut,36.0,19.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M24,Metric,A4-70,Stainless Steel,nut,36.0,19.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M27,Metric,A2-70,Stainless Steel,nut,41.0,22.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M27,Metric,A4-70,Stainless Steel,nut,41.0,22.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M30,Metric,A2-70,Stainless Steel,nut,46.0,24.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M30,Metric,A4-70,Stainless Steel,nut,46.0,24.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M33,Metric,A2-70,Stainless Steel,nut,50.0,26.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M33,Metric,A4-70,Stainless Steel,nut,50.0,26.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M36,Metric,A2-70,Stainless Steel,nut,55.0,29.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M36,Metric,A4-70,Stainless Steel,nut,55.0,29.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M39,Metric,A2-70,Stainless Steel,nut,60.0,31.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M39,Metric,A4-70,Stainless Steel,nut,60.0,31.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M42,Metric,A2-70,Stainless Steel,nut,65.0,34.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M42,Metric,A4-70,Stainless Steel,nut,65.0,34.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M45,Metric,A2-70,Stainless Steel,nut,70.0,36.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M45,Metric,A4-70,Stainless Steel,nut,70.0,36.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M48,Metric,A2-70,Stainless Steel,nut,75.0,38.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M48,Metric,A4-70,Stainless Steel,nut,75.0,38.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M52,Metric,A2-70,Stainless Steel,nut,80.0,42.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M52,Metric,A4-70,Stainless Steel,nut,80.0,42.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M56,Metric,A2-70,Stainless Steel,nut,85.0,45.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M56,Metric,A4-70,Stainless Steel,nut,85.0,45.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M60,Metric,A2-70,Stainless Steel,nut,90.0,48.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M60,Metric,A4-70,Stainless Steel,nut,90.0,48.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M64,Metric,A2-70,Stainless Steel,nut,95.0,51.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+DIN 934,M64,Metric,A4-70,Stainless Steel,nut,95.0,51.0,,,,,,,https://www.fasteners.eu/standards/din/934/
+ISO 4032,M6,Metric,A2-70,Stainless Steel,nut,10.0,5.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M6,Metric,A4-70,Stainless Steel,nut,10.0,5.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M8,Metric,A2-70,Stainless Steel,nut,13.0,6.5,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M8,Metric,A4-70,Stainless Steel,nut,13.0,6.5,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M10,Metric,A2-70,Stainless Steel,nut,16.0,8.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M10,Metric,A4-70,Stainless Steel,nut,16.0,8.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M12,Metric,A2-70,Stainless Steel,nut,18.0,10.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M12,Metric,A4-70,Stainless Steel,nut,18.0,10.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M14,Metric,A2-70,Stainless Steel,nut,21.0,11.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M14,Metric,A4-70,Stainless Steel,nut,21.0,11.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M16,Metric,A2-70,Stainless Steel,nut,24.0,13.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M16,Metric,A4-70,Stainless Steel,nut,24.0,13.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M18,Metric,A2-70,Stainless Steel,nut,27.0,15.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M18,Metric,A4-70,Stainless Steel,nut,27.0,15.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M20,Metric,A2-70,Stainless Steel,nut,30.0,16.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M20,Metric,A4-70,Stainless Steel,nut,30.0,16.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M22,Metric,A2-70,Stainless Steel,nut,32.0,18.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M22,Metric,A4-70,Stainless Steel,nut,32.0,18.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M24,Metric,A2-70,Stainless Steel,nut,36.0,19.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M24,Metric,A4-70,Stainless Steel,nut,36.0,19.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M27,Metric,A2-70,Stainless Steel,nut,41.0,22.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M27,Metric,A4-70,Stainless Steel,nut,41.0,22.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M30,Metric,A2-70,Stainless Steel,nut,46.0,24.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M30,Metric,A4-70,Stainless Steel,nut,46.0,24.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M33,Metric,A2-70,Stainless Steel,nut,50.0,26.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M33,Metric,A4-70,Stainless Steel,nut,50.0,26.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M36,Metric,A2-70,Stainless Steel,nut,55.0,29.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M36,Metric,A4-70,Stainless Steel,nut,55.0,29.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M39,Metric,A2-70,Stainless Steel,nut,60.0,31.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M39,Metric,A4-70,Stainless Steel,nut,60.0,31.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M42,Metric,A2-70,Stainless Steel,nut,65.0,34.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M42,Metric,A4-70,Stainless Steel,nut,65.0,34.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M45,Metric,A2-70,Stainless Steel,nut,70.0,36.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M45,Metric,A4-70,Stainless Steel,nut,70.0,36.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M48,Metric,A2-70,Stainless Steel,nut,75.0,38.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M48,Metric,A4-70,Stainless Steel,nut,75.0,38.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M52,Metric,A2-70,Stainless Steel,nut,80.0,42.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M52,Metric,A4-70,Stainless Steel,nut,80.0,42.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M56,Metric,A2-70,Stainless Steel,nut,85.0,45.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M56,Metric,A4-70,Stainless Steel,nut,85.0,45.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M60,Metric,A2-70,Stainless Steel,nut,90.0,48.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M60,Metric,A4-70,Stainless Steel,nut,90.0,48.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M64,Metric,A2-70,Stainless Steel,nut,95.0,51.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+ISO 4032,M64,Metric,A4-70,Stainless Steel,nut,95.0,51.0,,,,,,,https://www.fasteners.eu/standards/iso/4032/
+DIN 125-A,M6,Metric,A2-70,Stainless Steel,washer,,,6.4,12.0,1.6,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M6,Metric,A4-70,Stainless Steel,washer,,,6.4,12.0,1.6,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M7,Metric,A2-70,Stainless Steel,washer,,,7.4,14.0,1.6,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M7,Metric,A4-70,Stainless Steel,washer,,,7.4,14.0,1.6,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M8,Metric,A2-70,Stainless Steel,washer,,,8.4,16.0,1.6,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M8,Metric,A4-70,Stainless Steel,washer,,,8.4,16.0,1.6,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M10,Metric,A2-70,Stainless Steel,washer,,,10.5,20.0,2.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M10,Metric,A4-70,Stainless Steel,washer,,,10.5,20.0,2.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M12,Metric,A2-70,Stainless Steel,washer,,,13.0,24.0,2.5,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M12,Metric,A4-70,Stainless Steel,washer,,,13.0,24.0,2.5,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M14,Metric,A2-70,Stainless Steel,washer,,,15.0,28.0,2.5,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M14,Metric,A4-70,Stainless Steel,washer,,,15.0,28.0,2.5,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M16,Metric,A2-70,Stainless Steel,washer,,,17.0,30.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M16,Metric,A4-70,Stainless Steel,washer,,,17.0,30.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M18,Metric,A2-70,Stainless Steel,washer,,,19.0,34.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M18,Metric,A4-70,Stainless Steel,washer,,,19.0,34.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M20,Metric,A2-70,Stainless Steel,washer,,,21.0,37.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M20,Metric,A4-70,Stainless Steel,washer,,,21.0,37.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M22,Metric,A2-70,Stainless Steel,washer,,,23.0,39.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M22,Metric,A4-70,Stainless Steel,washer,,,23.0,39.0,3.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M24,Metric,A2-70,Stainless Steel,washer,,,25.0,44.0,4.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M24,Metric,A4-70,Stainless Steel,washer,,,25.0,44.0,4.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M27,Metric,A2-70,Stainless Steel,washer,,,28.0,50.0,4.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M27,Metric,A4-70,Stainless Steel,washer,,,28.0,50.0,4.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M30,Metric,A2-70,Stainless Steel,washer,,,31.0,56.0,4.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M30,Metric,A4-70,Stainless Steel,washer,,,31.0,56.0,4.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M33,Metric,A2-70,Stainless Steel,washer,,,34.0,60.0,5.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M33,Metric,A4-70,Stainless Steel,washer,,,34.0,60.0,5.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M36,Metric,A2-70,Stainless Steel,washer,,,37.0,66.0,5.0,,,,https://www.fasteners.eu/standards/din/125-A/
+DIN 125-A,M36,Metric,A4-70,Stainless Steel,washer,,,37.0,66.0,5.0,,,,https://www.fasteners.eu/standards/din/125-A/
+ISO 7089,M6,Metric,A2-70,Stainless Steel,washer,,,6.4,12.0,1.6,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M6,Metric,A4-70,Stainless Steel,washer,,,6.4,12.0,1.6,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M7,Metric,A2-70,Stainless Steel,washer,,,7.4,14.0,1.6,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M7,Metric,A4-70,Stainless Steel,washer,,,7.4,14.0,1.6,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M8,Metric,A2-70,Stainless Steel,washer,,,8.4,16.0,1.6,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M8,Metric,A4-70,Stainless Steel,washer,,,8.4,16.0,1.6,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M10,Metric,A2-70,Stainless Steel,washer,,,10.5,20.0,2.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M10,Metric,A4-70,Stainless Steel,washer,,,10.5,20.0,2.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M12,Metric,A2-70,Stainless Steel,washer,,,13.0,24.0,2.5,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M12,Metric,A4-70,Stainless Steel,washer,,,13.0,24.0,2.5,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M14,Metric,A2-70,Stainless Steel,washer,,,15.0,28.0,2.5,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M14,Metric,A4-70,Stainless Steel,washer,,,15.0,28.0,2.5,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M16,Metric,A2-70,Stainless Steel,washer,,,17.0,30.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M16,Metric,A4-70,Stainless Steel,washer,,,17.0,30.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M18,Metric,A2-70,Stainless Steel,washer,,,19.0,34.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M18,Metric,A4-70,Stainless Steel,washer,,,19.0,34.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M20,Metric,A2-70,Stainless Steel,washer,,,21.0,37.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M20,Metric,A4-70,Stainless Steel,washer,,,21.0,37.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M22,Metric,A2-70,Stainless Steel,washer,,,23.0,39.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M22,Metric,A4-70,Stainless Steel,washer,,,23.0,39.0,3.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M24,Metric,A2-70,Stainless Steel,washer,,,25.0,44.0,4.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M24,Metric,A4-70,Stainless Steel,washer,,,25.0,44.0,4.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M27,Metric,A2-70,Stainless Steel,washer,,,28.0,50.0,4.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M27,Metric,A4-70,Stainless Steel,washer,,,28.0,50.0,4.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M30,Metric,A2-70,Stainless Steel,washer,,,31.0,56.0,4.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M30,Metric,A4-70,Stainless Steel,washer,,,31.0,56.0,4.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M33,Metric,A2-70,Stainless Steel,washer,,,34.0,60.0,5.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M33,Metric,A4-70,Stainless Steel,washer,,,34.0,60.0,5.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M36,Metric,A2-70,Stainless Steel,washer,,,37.0,66.0,5.0,,,,https://www.fasteners.eu/standards/iso/7089/
+ISO 7089,M36,Metric,A4-70,Stainless Steel,washer,,,37.0,66.0,5.0,,,,https://www.fasteners.eu/standards/iso/7089/
+DIN 127-A,M6,Metric,A2-70,Stainless Steel,spring washer,,,6.4,11.8,1.6,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M6,Metric,A4-70,Stainless Steel,spring washer,,,6.4,11.8,1.6,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M7,Metric,A2-70,Stainless Steel,spring washer,,,7.1,12.8,1.6,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M7,Metric,A4-70,Stainless Steel,spring washer,,,7.1,12.8,1.6,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M8,Metric,A2-70,Stainless Steel,spring washer,,,8.1,14.8,2.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M8,Metric,A4-70,Stainless Steel,spring washer,,,8.1,14.8,2.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M10,Metric,A2-70,Stainless Steel,spring washer,,,10.2,18.1,2.2,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M10,Metric,A4-70,Stainless Steel,spring washer,,,10.2,18.1,2.2,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M12,Metric,A2-70,Stainless Steel,spring washer,,,12.2,21.1,2.5,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M12,Metric,A4-70,Stainless Steel,spring washer,,,12.2,21.1,2.5,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M14,Metric,A2-70,Stainless Steel,spring washer,,,14.2,24.1,3.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M14,Metric,A4-70,Stainless Steel,spring washer,,,14.2,24.1,3.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M16,Metric,A2-70,Stainless Steel,spring washer,,,16.2,27.4,3.5,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M16,Metric,A4-70,Stainless Steel,spring washer,,,16.2,27.4,3.5,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M18,Metric,A2-70,Stainless Steel,spring washer,,,18.2,29.4,3.5,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M18,Metric,A4-70,Stainless Steel,spring washer,,,18.2,29.4,3.5,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M20,Metric,A2-70,Stainless Steel,spring washer,,,20.2,33.6,4.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M20,Metric,A4-70,Stainless Steel,spring washer,,,20.2,33.6,4.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M22,Metric,A2-70,Stainless Steel,spring washer,,,22.5,35.9,4.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M22,Metric,A4-70,Stainless Steel,spring washer,,,22.5,35.9,4.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M24,Metric,A2-70,Stainless Steel,spring washer,,,24.5,40.0,5.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M24,Metric,A4-70,Stainless Steel,spring washer,,,24.5,40.0,5.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M27,Metric,A2-70,Stainless Steel,spring washer,,,27.5,43.0,5.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M27,Metric,A4-70,Stainless Steel,spring washer,,,27.5,43.0,5.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M30,Metric,A2-70,Stainless Steel,spring washer,,,30.5,48.2,6.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M30,Metric,A4-70,Stainless Steel,spring washer,,,30.5,48.2,6.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M36,Metric,A2-70,Stainless Steel,spring washer,,,36.5,58.2,6.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M36,Metric,A4-70,Stainless Steel,spring washer,,,36.5,58.2,6.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M39,Metric,A2-70,Stainless Steel,spring washer,,,39.5,61.2,6.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M39,Metric,A4-70,Stainless Steel,spring washer,,,39.5,61.2,6.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M42,Metric,A2-70,Stainless Steel,spring washer,,,42.5,66.2,7.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M42,Metric,A4-70,Stainless Steel,spring washer,,,42.5,66.2,7.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M45,Metric,A2-70,Stainless Steel,spring washer,,,45.5,71.2,7.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M45,Metric,A4-70,Stainless Steel,spring washer,,,45.5,71.2,7.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M48,Metric,A2-70,Stainless Steel,spring washer,,,49.0,75.0,7.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M48,Metric,A4-70,Stainless Steel,spring washer,,,49.0,75.0,7.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M52,Metric,A2-70,Stainless Steel,spring washer,,,53.0,83.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M52,Metric,A4-70,Stainless Steel,spring washer,,,53.0,83.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M56,Metric,A2-70,Stainless Steel,spring washer,,,57.0,87.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M56,Metric,A4-70,Stainless Steel,spring washer,,,57.0,87.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M60,Metric,A2-70,Stainless Steel,spring washer,,,61.0,91.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M60,Metric,A4-70,Stainless Steel,spring washer,,,61.0,91.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M64,Metric,A2-70,Stainless Steel,spring washer,,,65.0,95.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M64,Metric,A4-70,Stainless Steel,spring washer,,,65.0,95.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M68,Metric,A2-70,Stainless Steel,spring washer,,,69.0,99.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M68,Metric,A4-70,Stainless Steel,spring washer,,,69.0,99.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M72,Metric,A2-70,Stainless Steel,spring washer,,,73.0,103.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M72,Metric,A4-70,Stainless Steel,spring washer,,,73.0,103.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M80,Metric,A2-70,Stainless Steel,spring washer,,,81.0,111.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M80,Metric,A4-70,Stainless Steel,spring washer,,,81.0,111.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M90,Metric,A2-70,Stainless Steel,spring washer,,,91.0,121.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M90,Metric,A4-70,Stainless Steel,spring washer,,,91.0,121.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M100,Metric,A2-70,Stainless Steel,spring washer,,,101.0,131.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 127-A,M100,Metric,A4-70,Stainless Steel,spring washer,,,101.0,131.0,8.0,,,,https://www.fasteners.eu/standards/din/127-A/
+DIN 7980,M6,Metric,A2-70,Stainless Steel,spring washer,,,6.1,9.9,1.6,,,0.42,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M6,Metric,A4-70,Stainless Steel,spring washer,,,6.1,9.9,1.6,,,0.42,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M8,Metric,A2-70,Stainless Steel,spring washer,,,8.1,12.7,2.0,,,1.05,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M8,Metric,A4-70,Stainless Steel,spring washer,,,8.1,12.7,2.0,,,1.05,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M10,Metric,A2-70,Stainless Steel,spring washer,,,10.2,16.0,2.5,,,1.96,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M10,Metric,A4-70,Stainless Steel,spring washer,,,10.2,16.0,2.5,,,1.96,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M12,Metric,A2-70,Stainless Steel,spring washer,,,12.2,18.0,2.5,,,2.28,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M12,Metric,A4-70,Stainless Steel,spring washer,,,12.2,18.0,2.5,,,2.28,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M14,Metric,A2-70,Stainless Steel,spring washer,,,14.2,21.1,3.0,,,3.8,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M14,Metric,A4-70,Stainless Steel,spring washer,,,14.2,21.1,3.0,,,3.8,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M16,Metric,A2-70,Stainless Steel,spring washer,,,16.2,24.4,3.5,,,5.94,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M16,Metric,A4-70,Stainless Steel,spring washer,,,16.2,24.4,3.5,,,5.94,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M18,Metric,A2-70,Stainless Steel,spring washer,,,18.2,26.4,3.5,,,6.6,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M18,Metric,A4-70,Stainless Steel,spring washer,,,18.2,26.4,3.5,,,6.6,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M20,Metric,A2-70,Stainless Steel,spring washer,,,20.2,30.6,4.5,,,12.3,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M20,Metric,A4-70,Stainless Steel,spring washer,,,20.2,30.6,4.5,,,12.3,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M22,Metric,A2-70,Stainless Steel,spring washer,,,22.5,32.9,4.5,,,13.6,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M22,Metric,A4-70,Stainless Steel,spring washer,,,22.5,32.9,4.5,,,13.6,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M24,Metric,A2-70,Stainless Steel,spring washer,,,24.5,35.9,5.0,,,18.1,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M24,Metric,A4-70,Stainless Steel,spring washer,,,24.5,35.9,5.0,,,18.1,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M27,Metric,A2-70,Stainless Steel,spring washer,,,27.5,38.9,5.0,,,20.6,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M27,Metric,A4-70,Stainless Steel,spring washer,,,27.5,38.9,5.0,,,20.6,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M30,Metric,A2-70,Stainless Steel,spring washer,,,30.5,44.1,6.0,,,32.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M30,Metric,A4-70,Stainless Steel,spring washer,,,30.5,44.1,6.0,,,32.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M33,Metric,A2-70,Stainless Steel,spring washer,,,33.5,47.1,6.0,,,35.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M33,Metric,A4-70,Stainless Steel,spring washer,,,33.5,47.1,6.0,,,35.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M36,Metric,A2-70,Stainless Steel,spring washer,,,36.5,52.2,7.0,,,52.5,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M36,Metric,A4-70,Stainless Steel,spring washer,,,36.5,52.2,7.0,,,52.5,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M42,Metric,A2-70,Stainless Steel,spring washer,,,42.5,60.2,8.0,,,80.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M42,Metric,A4-70,Stainless Steel,spring washer,,,42.5,60.2,8.0,,,80.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M48,Metric,A2-70,Stainless Steel,spring washer,,,49.0,67.0,8.0,,,90.0,https://www.fasteners.eu/standards/din/7980/
+DIN 7980,M48,Metric,A4-70,Stainless Steel,spring washer,,,49.0,67.0,8.0,,,90.0,https://www.fasteners.eu/standards/din/7980/
+ASME B18.2.1,1/4,Imperial,Grade 5,Plain,bolt,11.13,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1/4,Imperial,Grade 8,Plain,bolt,11.13,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,5/16,Imperial,Grade 5,Plain,bolt,12.7,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,5/16,Imperial,Grade 8,Plain,bolt,12.7,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,3/8,Imperial,Grade 5,Plain,bolt,14.27,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,3/8,Imperial,Grade 8,Plain,bolt,14.27,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,7/16,Imperial,Grade 5,Plain,bolt,15.88,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,7/16,Imperial,Grade 8,Plain,bolt,15.88,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1/2,Imperial,Grade 5,Plain,bolt,19.05,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1/2,Imperial,Grade 8,Plain,bolt,19.05,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,9/16,Imperial,Grade 5,Plain,bolt,20.62,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,9/16,Imperial,Grade 8,Plain,bolt,20.62,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,5/8,Imperial,Grade 5,Plain,bolt,23.83,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,5/8,Imperial,Grade 8,Plain,bolt,23.83,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,3/4,Imperial,Grade 5,Plain,bolt,28.57,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,3/4,Imperial,Grade 8,Plain,bolt,28.57,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,7/8,Imperial,Grade 5,Plain,bolt,33.32,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,7/8,Imperial,Grade 8,Plain,bolt,33.32,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1-1/8,Imperial,Grade 5,Plain,bolt,42.88,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1-1/8,Imperial,Grade 8,Plain,bolt,42.88,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1-1/4,Imperial,Grade 5,Plain,bolt,47.62,,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.1,1-1/4,Imperial,Grade 8,Plain,bolt,47.62,,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.2.1/
+ASME B18.2.2,1/4,Imperial,Grade 5,Plain,nut,11.13,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1/4,Imperial,Grade 8,Plain,nut,11.13,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,5/16,Imperial,Grade 5,Plain,nut,12.7,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,5/16,Imperial,Grade 8,Plain,nut,12.7,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,3/8,Imperial,Grade 5,Plain,nut,14.27,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,3/8,Imperial,Grade 8,Plain,nut,14.27,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,7/16,Imperial,Grade 5,Plain,nut,17.48,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,7/16,Imperial,Grade 8,Plain,nut,17.48,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1/2,Imperial,Grade 5,Plain,nut,19.05,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1/2,Imperial,Grade 8,Plain,nut,19.05,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,9/16,Imperial,Grade 5,Plain,nut,22.22,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,9/16,Imperial,Grade 8,Plain,nut,22.22,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,5/8,Imperial,Grade 5,Plain,nut,23.83,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,5/8,Imperial,Grade 8,Plain,nut,23.83,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,3/4,Imperial,Grade 5,Plain,nut,28.57,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,3/4,Imperial,Grade 8,Plain,nut,28.57,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,7/8,Imperial,Grade 5,Plain,nut,33.32,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,7/8,Imperial,Grade 8,Plain,nut,33.32,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1-1/8,Imperial,Grade 5,Plain,nut,42.88,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1-1/8,Imperial,Grade 8,Plain,nut,42.88,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1-1/4,Imperial,Grade 5,Plain,nut,47.62,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.2.2,1-1/4,Imperial,Grade 8,Plain,nut,47.62,,,,,,,,https://www.fasteners.eu/standards/asme/B18.2.2/
+ASME B18.3,1/4,Imperial,Grade 5,Plain,screw,,6.35,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,1/4,Imperial,Grade 8,Plain,screw,,6.35,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,5/16,Imperial,Grade 5,Plain,screw,,7.94,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,5/16,Imperial,Grade 8,Plain,screw,,7.94,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,3/8,Imperial,Grade 5,Plain,screw,,9.52,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,3/8,Imperial,Grade 8,Plain,screw,,9.52,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,7/16,Imperial,Grade 5,Plain,screw,,11.11,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,7/16,Imperial,Grade 8,Plain,screw,,11.11,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,1/2,Imperial,Grade 5,Plain,screw,,12.7,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,1/2,Imperial,Grade 8,Plain,screw,,12.7,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,5/8,Imperial,Grade 5,Plain,screw,,15.88,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,5/8,Imperial,Grade 8,Plain,screw,,15.88,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,3/4,Imperial,Grade 5,Plain,screw,,19.05,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,3/4,Imperial,Grade 8,Plain,screw,,19.05,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,7/8,Imperial,Grade 5,Plain,screw,,22.23,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,7/8,Imperial,Grade 8,Plain,screw,,22.23,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,1-1/4,Imperial,Grade 5,Plain,screw,,31.75,,,,827.0,634.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.3,1-1/4,Imperial,Grade 8,Plain,screw,,31.75,,,,1034.0,896.0,,https://www.fasteners.eu/standards/asme/B18.3/
+ASME B18.21.1,1/4,Imperial,Grade 5,Plain,spring washer,,,6.35,12.37,1.57,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,1/4,Imperial,Grade 8,Plain,spring washer,,,6.35,12.37,1.57,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,5/16,Imperial,Grade 5,Plain,spring washer,,,7.92,14.81,1.98,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,5/16,Imperial,Grade 8,Plain,spring washer,,,7.92,14.81,1.98,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,3/8,Imperial,Grade 5,Plain,spring washer,,,9.52,17.27,2.39,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,3/8,Imperial,Grade 8,Plain,spring washer,,,9.52,17.27,2.39,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,7/16,Imperial,Grade 5,Plain,spring washer,,,11.13,19.71,2.77,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,7/16,Imperial,Grade 8,Plain,spring washer,,,11.13,19.71,2.77,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,1/2,Imperial,Grade 5,Plain,spring washer,,,12.7,22.17,3.17,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,1/2,Imperial,Grade 8,Plain,spring washer,,,12.7,22.17,3.17,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,5/8,Imperial,Grade 5,Plain,spring washer,,,15.88,27.08,3.96,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,5/8,Imperial,Grade 8,Plain,spring washer,,,15.88,27.08,3.96,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,3/4,Imperial,Grade 5,Plain,spring washer,,,19.05,31.98,4.78,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,3/4,Imperial,Grade 8,Plain,spring washer,,,19.05,31.98,4.78,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,7/8,Imperial,Grade 5,Plain,spring washer,,,22.22,36.88,5.56,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,7/8,Imperial,Grade 8,Plain,spring washer,,,22.22,36.88,5.56,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,1-1/4,Imperial,Grade 5,Plain,spring washer,,,31.75,51.59,7.92,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+ASME B18.21.1,1-1/4,Imperial,Grade 8,Plain,spring washer,,,31.75,51.59,7.92,,,,https://www.fasteners.eu/standards/asme/B18.21.1/
+DIN 912,M6,Metric,10.9,Zinc Clear,screw,5.0,6.0,,,,1000.0,900.0,,https://www.fasteners.eu/standards/din912/
+DIN 912,M6,Metric,12.9,Zinc Clear,screw,5.0,6.0,,,,1200.0,1080.0,,https://www.fasteners.eu/standards/din912/
+DIN 912,M6,Metric,4.6,Zinc Clear,screw,5.0,6.0,,,,400.0,240.0,,https://www.fasteners.eu/standards/din912/
+DIN 912,M6,Metric,8.8,Zinc Clear,screw,5.0,6.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/din912/
+DIN 912,M6,Metric,A2-70,Zinc Clear,screw,5.0,6.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/din912/
+DIN 912,M6,Metric,A4-80,Zinc Clear,screw,5.0,6.0,,,,800.0,600.0,,https://www.fasteners.eu/standards/din912/
+ISO 4762,M6,Metric,10.9,Zinc Clear,screw,5.0,6.0,,,,1000.0,900.0,,https://www.fasteners.eu/standards/iso4762/
+ISO 4762,M6,Metric,12.9,Zinc Clear,screw,5.0,6.0,,,,1200.0,1080.0,,https://www.fasteners.eu/standards/iso4762/
+ISO 4762,M6,Metric,4.6,Zinc Clear,screw,5.0,6.0,,,,400.0,240.0,,https://www.fasteners.eu/standards/iso4762/
+ISO 4762,M6,Metric,8.8,Zinc Clear,screw,5.0,6.0,,,,800.0,640.0,,https://www.fasteners.eu/standards/iso4762/
+ISO 4762,M6,Metric,A2-70,Zinc Clear,screw,5.0,6.0,,,,700.0,450.0,,https://www.fasteners.eu/standards/iso4762/
+ISO 4762,M6,Metric,A4-80,Zinc Clear,screw,5.0,6.0,,,,800.0,600.0,,https://www.fasteners.eu/standards/iso4762/
