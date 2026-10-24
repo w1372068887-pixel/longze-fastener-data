@@ -33,5 +33,7 @@
       "relation": "isDocumentedBy",
       "resource_type": "publication"
     }
-  ]
+  ],
+  "version": "1.0.0",
+  "notes": "Built from Longze Engineering standard dimension tables; cross-checked against published size charts. Nominal values only - tolerances are defined by each standard."
 }

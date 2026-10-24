@@ -1,7 +1,7 @@
 {
   "dataset": "fastener-standards",
   "version": "1.0.0",
-  "generated_at": "2026-10-23T15:04:12Z",
+  "generated_at": "2026-10-24T05:29:54Z",
   "records": 872,
   "standards": 16,
   "components": [
@@ -12,6 +12,7 @@
     "washer"
   ],
   "license": "CC BY 4.0",
+  "doi": "10.5281/zenodo.23610421",
   "repository": "https://github.com/w1372068887-pixel/longze-fastener-data",
   "landing_page": "https://lz-engineering.com/open-data/",
   "files": {
@@ -24,8 +25,8 @@
       "bytes": 382583
     },
     "README.md": {
-      "sha256": "aaba10a0849312fe6beccafc258c165d722a5b487106e1415753f934201748ca",
-      "bytes": 7464
+      "sha256": "841e2270dae779d94b6948c961bfe5f4b84c32ba11ce495ea952b8ce4652eac0",
+      "bytes": 7376
     },
     "LICENSE": {
       "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",

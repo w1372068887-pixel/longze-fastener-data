@@ -127,11 +127,11 @@ If you use this dataset, please cite:
 > Longze Engineering (2026). Fastener Standards Data (Version 1.0.0) [Data set].
 > Hebei Longze Metal Products Manufacturing Co., Ltd. https://github.com/w1372068887-pixel/longze-fastener-data
 
-An archived version with a DOI will be deposited with Zenodo and listed here.
+Archived version: https://doi.org/10.5281/zenodo.23610421 (Zenodo DOI 10.5281/zenodo.23610421).
 
 ## Related
 
-- Dataset repository: https://github.com/w1372068887-pixel/longze-fastener-data
-- Open data landing page: https://lz-engineering.com/open-data/
-- Interactive size charts: https://lz-engineering.com/library/
-- Mechanical property reference: https://lz-engineering.com/mechanical-properties/
+- Dataset repository: {REPO_URL}
+- Open data landing page: {DATA_URL}
+- Interactive size charts: {SITE_URL}/library/
+- Mechanical property reference: {SITE_URL}/mechanical-properties/
